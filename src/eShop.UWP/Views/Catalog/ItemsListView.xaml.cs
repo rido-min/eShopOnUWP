@@ -17,7 +17,7 @@ namespace eShop.UWP.Views
 
         public void Initialize()
         {
-            ViewModel.ItemsControl = gridView;
+            //ViewModel.ItemsControl = gridView;
         }
     }
 }
