@@ -80,7 +80,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\eShop.SqlProvider\eShop.SqlProvider.csproj">
+    <ProjectReference Include="..\eShop.SqlProvider\eShop.SqlProvider.csproj">
       <Project>{3795a9f7-5f55-4391-9828-afe6940c4b5a}</Project>
       <Name>eShop.SqlProvider</Name>
     </ProjectReference>

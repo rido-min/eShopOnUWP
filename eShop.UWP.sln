@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.ClassicWPF", "src\eSh
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{ACD058B0-0509-4927-AEA9-B36F3D5264AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitDB", "InitDB\InitDB.csproj", "{22352EBD-AC33-4BE0-BACE-0FAD292F2049}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9BA0288-681F-45CE-BDBE-FE8AB48A6952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitDB", "src\InitDB\InitDB.csproj", "{22352EBD-AC33-4BE0-BACE-0FAD292F2049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
